@@ -1,12 +1,20 @@
-# react-web-and-electron
+# React web and electron project for visualization
 
-Test Application
+- Created charts using ChartJS
+- Created maps using d3
 
+Process -
+```
 git clone
 npm install
+```
 
-// web application on localhost:8080
+ - To run web application on localhost:8080
+```
 npm start
+```
 
-// electron application
+ - To run same code in electron application
+```
 npm run dev
+```
